@@ -4,6 +4,13 @@
 
 A função FILTRAR é uma das funções de matriz dinâmica introduzidas no Excel 2021/Microsoft 365. Ela permite filtrar dados com base em critérios específicos e retornar os resultados automaticamente em células adjacentes.
 
+**Importante:** O Excel localiza os nomes das funções de acordo com o idioma. Neste projeto usamos o Excel em português:
+- **Português:** `FILTRAR`
+- **Inglês:** `FILTER`
+- **Espanhol:** `FILTRO`
+
+Use o nome apropriado para o idioma da sua instalação do Excel.
+
 ### Sintaxe
 ```
 =FILTRAR(matriz; incluir; [se_vazio])

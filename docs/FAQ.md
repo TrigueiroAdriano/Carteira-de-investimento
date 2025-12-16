@@ -30,9 +30,11 @@ A estrutura é funcional, mas você deve:
 
 ### Funciona no Google Sheets?
 Sim, com adaptações:
-- Use `FILTER` ao invés de `FILTRAR`
+- Use `FILTER` ao invés de `FILTRAR` (Google Sheets usa nomes em inglês)
 - Ajuste referências de planilhas: use `'Nome'!A:A`
 - Validação de dados funciona de forma similar
+
+**Nota sobre nomes de função:** Este projeto usa a nomenclatura do Excel em português (FILTRAR). No Excel em inglês, a mesma função é chamada FILTER. Use o nome apropriado para seu idioma.
 
 ### Funciona no LibreOffice?
 Sim, no LibreOffice Calc 7.0+, mas o nome pode ser diferente. Consulte a documentação do LibreOffice.
