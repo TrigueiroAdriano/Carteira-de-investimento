@@ -1,0 +1,16 @@
+TipoAtivo,Ativo,PerfilRisco,Percentual
+Criptomoedas,Bitcoin,Conservador,50
+Criptomoedas,Ethereum,Conservador,30
+Criptomoedas,USDT,Conservador,20
+Criptomoedas,Bitcoin,Moderado,40
+Criptomoedas,Ethereum,Moderado,30
+Criptomoedas,BNB,Moderado,15
+Criptomoedas,Cardano,Moderado,10
+Criptomoedas,USDT,Moderado,5
+Criptomoedas,Bitcoin,Agressivo,30
+Criptomoedas,Ethereum,Agressivo,25
+Criptomoedas,BNB,Agressivo,15
+Criptomoedas,Cardano,Agressivo,10
+Criptomoedas,Solana,Agressivo,10
+Criptomoedas,Polkadot,Agressivo,5
+Criptomoedas,Chainlink,Agressivo,5
